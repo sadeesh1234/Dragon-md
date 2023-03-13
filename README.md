@@ -1,15 +1,94 @@
-## Deployment Methods
----
-1. ***Get [SESSION-ID](https://replit.com/@astromdqr/Astro-MD-V7-Qr?output%20only=1&lite=1#index.js) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+<p align="center"> 
+<u>♥️ ᴀɴ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ꜱᴀᴅɪʏᴀ ᴏꜰᴄ ♥️</u>
+</p>
+<p align="center">
+<img src="https://telegra.ph/file/3b11372607e68eea8f7d5.jpg" width="300" height="300"/>
+</p>
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Dragon+md+Whatsapp+Bot" alt="">
+</p>
 
-### Koyeb Deploy
-1. ***Create Koyeb Account From [Here](https://app.koyeb.com/auth/signin).***
-2. ***[Deploy on Koyeb](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/vihangayt0/Astro-Md-V7&branch=Astro-MD-V7&env[FOOTER]=%E1%B4%80%EA%9C%B1%E1%B4%9B%CA%80%E1%B4%8F-%E1%B4%8D%E1%B4%85%20%E1%B4%98%E1%B4%9C%CA%99%CA%9F%C9%AA%E1%B4%84%20%EA%9C%B1%E1%B4%9B%E1%B4%80%CA%99%CA%9F%E1%B4%87&env[HOST]=KOYEB&env[CAPTION]=*%C9%A2%E1%B4%87%C9%B4%E1%B4%80%CA%80%E1%B4%80%E1%B4%9B%E1%B4%87%E1%B4%85%20%CA%99%CA%8F%20%E1%B4%80%EA%9C%B1%E1%B4%9B%CA%80%E1%B4%8F-%E1%B4%8D%E1%B4%85*&env[ALIVE_MSG]=default&env[LANG]=EN&env[ALIVE_LOGO]=https://i.imgur.com/v8iuP8v.jpg&env[ONLY_GROUP]=false&env[SESSION_ID]=&env[INBOX_BL_MSG]=*Inbox%20not%20allowed*&env[PORT]=8000&ports=8000;http;/).*** ***[[Tutorial]](https://youtu.be/-gkhE0byFEs)***
+DRAGON-MD whatsapp bot is,
 
-### Replit Deploy
-1. ***Create Replit Account From [Here](https://replit.com/).***
-2. ***[Deploy on Replit](https://replit.com/github/vihangayt0/Astro-MD-V7-Replit).*** ***[[Tutorial]](https://youtu.be/rMycIWfmVQ4)***
-3. ***Add Bot Website To Uptimer From [Here](https://uptimerobot.com/).***
+      DRAGON-MD whatsapp bot is an easy to use whatsapp robot thkx xeon.   |  DRAGON-MD whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
+
+# 
+
+* [`3️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`]([https://replit.com/@MRNima/Queen-V230#index.js](https://replit.com/@sadeesh1234/Astro-MD-V7-Qr?v=1))
+
+# 
++ DEPLOY STEPS
+# 
+1. Fork This Repository 
+2. Update [settings.js]()
+3. Uplode session.json file
+4. Make acount on your host
+5. Connect Your Repository to your web host site
+6. [ Watch Video]()
+# 
+# 
 
 
-   ```Thanks Fro using Astro-MD```
+## 🆕 New additions 🆕
+
+➕ New Tiktok Downloader ( Wm / No Wm / audio )
+
+➕ New Fb Downloader (Add list message : SD / HD )
+
+➕ OpenAi ( ChatGPT )
+
+➕ True Caller ( Mobile Number details fetcher )
+
+➕ Add New Tag Option ( tag any messages in groups : video / audio / document / stickers / images )
+
+➕ Add New Bot Status Fetcher ( Runtime / ramusage / platform / speed etc )
+
+➕ New Movie Details Fetcher ( Not a Downloader )
+
+➕ Block any word on image downloader ( You must add words )
+
+➕ User Status Downloader ( Download status video or image using bot )
+
+➕ Reqested status sender ( Requested status send for requester )
+
+➕ Add TagAdmin 
+
+➕ Only Prefix mod ( can turn off /  on it )
+
+➕ Uplode 100MB + Videos (  if you use this you must have paid host sever )
+
+
+## 🛠️  FIX  🛠️
+
+✔️ Image downloader
+
+✔️ Google search
+
+✔️ Mediafire Downloader
+
+✔️ Ssweb 
+
+✔️ Pemoji 
+
+✔️ Sticker maker
+
+
+✔️ to image / Gif / mp4 / mp3 / voice Converter
+
+✔️ Add command error
+
+✔️ Apk Downloader
+
+✔️ Text to voice converter
+
+✔️ Hide tag / tag
+
+
+     
+       ⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ !
+
+
+<h1>💗</h1> 
+<b>Thanks For</b> -
+
+ [xeon](github.com/zimbot) for script , [thashi 💖]() for Voice ,[slrealtech]() , [darkalpha]() , [sanuwa]() and [isuru]() thanks for helps 💖
