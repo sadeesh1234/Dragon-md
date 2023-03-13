@@ -16,7 +16,7 @@ DRAGON-MD whatsapp bot is,
 
 * [`3️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@sadeesh1234/Dragon-md-Qr?v=1)
 #
-[`Deploy on Replit`]([`Deploy on Replit`](https://replit.com/github/sadeesh1234/Dragon-md)
+[`Deploy on Replit`](https://replit.com/github/sadeesh1234/Dragon-md)
 #
 # 
 + DEPLOY STEPS
