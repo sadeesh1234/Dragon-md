@@ -19,17 +19,6 @@ DRAGON-MD whatsapp bot is,
 [`Deploy on Replit`](https://replit.com/github/sadeesh1234/Dragon-md)
 #
 # 
-+ DEPLOY STEPS
-# 
-1. Fork This Repository 
-2. Update [settings.js]()
-3. Uplode session.json file
-4. Make acount on your host
-5. Connect Your Repository to your web host site
-6. [ Watch Video]()
-# 
-# 
-[`Deploy on Replit`]([https://replit.com](https://replit.com/github/sadeesh1234/Dragon-md))
 
 ## 🆕 New additions 🆕
 
